@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  sale_date: 2017-06-16
+  user: one
+  dicount: one
+  notes: MyText
+
+two:
+  client: two
+  sale_date: 2017-06-16
+  user: two
+  dicount: two
+  notes: MyText
